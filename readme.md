@@ -238,3 +238,13 @@ POST --> body:  application/x-www-form-urlencoded  key为image,value为文件，
 """
 ```
 
+3 相关介绍
+
+您可以查看我的另一篇 测试框架的项目: 
+
+[AutoMationTest]: https://github.com/oslo254804746/AutoMationTest	"AutoMationTest"
+
+
+
+
+
